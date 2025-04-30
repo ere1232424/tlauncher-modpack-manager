@@ -1,6 +1,6 @@
 # 🎮 Minecraft Mod Manager
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
 ![License](https://img.shields.io/badge/license-GPL--3.0-yellow.svg)
 
@@ -12,10 +12,19 @@
 - 🔄 Быстрое переключение между модпаками
 - 🏷️ Категоризация модпаков по жанрам
 - ⭐ Система избранного
+- 🌐 Поддержка нескольких языков (Русский, English)
+- 💫 Улучшенный интерфейс выбора версий
 
 ## 📥 Скачивание
 
 Скачайте последнюю версию из раздела [Releases](../../releases)
+
+### Что нового в версии 2.0.0
+
+- ✨ Добавлен удобный grid-интерфейс выбора версий Minecraft
+- 🌍 Добавлена поддержка английского языка
+- 💾 Добавлено сохранение выбранного языка
+- 🔧 Исправлены мелкие ошибки
 
 ## 🖥️ Требования
 

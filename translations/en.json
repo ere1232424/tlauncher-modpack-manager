@@ -1,0 +1,33 @@
+{
+    "window_title": "Minecraft Mod Manager",
+    "my_modpacks": "My Modpacks",
+    "enable": "Enable",
+    "disable": "Disable",
+    "delete": "Delete",
+    "add_modpack": "Add Modpack",
+    "modpack_name": "Modpack Name",
+    "genre": "Genre",
+    "version": "Version",
+    "choose_icon": "Choose Icon",
+    "choose_mods": "Choose Mods",
+    "save": "Save",
+    "cancel": "Cancel",
+    "error": "Error",
+    "success": "Success",
+    "genres": {
+        "hardcore": "Hardcore Pack",
+        "horror": "Horror Pack",
+        "rpg": "RPG Pack",
+        "vibe": "Vibe Pack"
+    },
+    "confirm_delete": "Are you sure you want to delete this modpack?",
+    "error_messages": {
+        "minecraft_not_found": "Minecraft folder not found!\nMake sure Minecraft is installed.",
+        "no_mods_folder": "Mods folder not found in modpack!",
+        "no_jar_files": "No .jar mod files found in modpack!",
+        "name_empty": "Modpack name cannot be empty!\nPlease enter a modpack name.",
+        "mods_not_selected": "Mods folder not selected!\nPlease select a folder with mods.",
+        "mods_folder_not_exists": "Selected mods folder does not exist!\nPlease select an existing folder with mods.",
+        "mods_folder_empty": "Selected mods folder is empty!\nPlease select a folder containing mods."
+    }
+} 
